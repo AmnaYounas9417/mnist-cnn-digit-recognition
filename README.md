@@ -23,6 +23,7 @@ Early stopping on validation loss
 Results
 Metric	Value
 Test accuracy	99.1%
+<img src="blob:chrome-untrusted://media-app/0dd49480-d80e-4d9b-926d-a4449bdd022b" alt="Screenshot 2026-10-27 12.10.14 PM.png"/>![Uploading image.png…]()
 
 Project workflow
 Load the data and save it as CSV
