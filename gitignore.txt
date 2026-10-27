@@ -1,0 +1,11 @@
+# Dataset files are recreated by the notebook
+*.csv
+
+# Saved model
+*.keras
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
